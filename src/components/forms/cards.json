@@ -1,0 +1,167 @@
+[
+  {
+    "b_url": "https://i.imgur.com/q2cMXTp.png",
+    "idnum": 1,
+    "b_desc": "First time logging in to the gamification system! This badge can be claim by completing a daily quest.",
+    "goal": 1,
+    "b_title": "Welcome to pandemification!"
+  },
+  {
+    "idnum": 2,
+    "b_desc": "First time finishing a trivia question daily quest. Answer one time any trivia questions daily quest related to your course.",
+    "b_url": "https://i.imgur.com/OdHbnDZ.png",
+    "b_title": "Daily Grind",
+    "goal": 1
+  },
+  {
+    "b_desc": "First time finishing a main quest. Complete any main quest to earn this badge.",
+    "goal": 1,
+    "idnum": 3,
+    "b_url": "https://i.imgur.com/ztXHitr.png",
+    "b_title": "Bright Future!"
+  },
+  {
+    "b_desc": "First time to review a main quest. Review completed main quest to earn this badge.",
+    "idnum": 4,
+    "goal": 1,
+    "b_url": "https://i.imgur.com/meZcj46.png",
+    "b_title": "Study first!"
+  },
+  {
+    "b_title": "Wowowow!",
+    "idnum": 5,
+    "goal": 3,
+    "b_url": "https://i.imgur.com/MTs2aVv.png",
+    "form_url": "https://forms.gle/cgPHT3Gb5EmE34kR7",
+    "b_desc": "Always having a 90% percentage mark in every quiz."
+  },
+  {
+    "b_desc": "first time perfect score in a quiz.",
+    "form_url": "https://forms.gle/H2k16mpDz9tEE9Du9",
+    "b_url": "https://i.imgur.com/PFSn08j.png",
+    "b_title": "The Impossible",
+    "goal": 1,
+    "idnum": 6
+  },
+  {
+    "b_desc": "Always commenting on every google classroom contents in the span of two weeks.",
+    "b_url": "https://i.imgur.com/oygoe98.png",
+    "b_title": "Kb Warrior",
+    "goal": 1,
+    "idnum": 23
+  },
+  {
+    "b_url": "https://i.imgur.com/RTNjokV.png",
+    "b_desc": " Always early in passing assignments, activities, finishing quizzes.",
+    "idnum": 7,
+    "b_title": "Early bird",
+    "goal": 5
+  },
+  {
+    "idnum": 8,
+    "b_url": "https://i.imgur.com/mWO4qNb.png",
+    "goal": 15,
+    "b_title": "Perfect attendance",
+    "b_desc": "Always logging in to the class"
+  },
+  {
+    "b_url": "https://i.imgur.com/JbVvZDa.png",
+    "form_url": "https://forms.gle/111DK7kmqGeGec4SA",
+    "idnum": 9,
+    "b_title": "Nothing Escapes The Eye",
+    "b_desc": "Always complete in submitting quiz, assignments, projects, or tasks.",
+    "goal": 3
+  },
+  {
+    "idnum": 10,
+    "b_desc": "Submitted a school work past deadline.",
+    "b_title": "Late or nothing",
+    "b_url": "https://i.imgur.com/rXRQDea.png",
+    "goal": 1
+  },
+  {
+    "b_url": "https://i.imgur.com/tSeq1z4.png",
+    "b_title": "Clear Face",
+    "goal": 1,
+    "form_url": "https://forms.gle/BJWMPGmYkupLSxeE7",
+    "idnum": 11,
+    "b_desc": "Camera is always turn on during synchronous meetings."
+  },
+  {
+    "b_url": "https://i.imgur.com/whOo3V4.png",
+    "b_title": "Trivia Master",
+    "idnum": 12,
+    "goal": 25,
+    "b_desc": "25 daily quest trivias"
+  },
+  {
+    "b_title": "Quest Lover",
+    "b_desc": "50 daily quest completed",
+    "idnum": 13,
+    "goal": 50,
+    "b_url": "https://i.imgur.com/sSQVcLF.png"
+  },
+  {
+    "b_desc": "5 main quest completed.",
+    "b_title": "Goal Driven",
+    "b_url": "https://i.imgur.com/HEoDNYc.png",
+    "goal": 5,
+    "idnum": 14
+  },
+  {
+    "idnum": 15,
+    "b_title": "Life Successor",
+    "b_url": "https://i.imgur.com/9ust0vF.png",
+    "goal": 15,
+    "b_desc": "15 main quest completed."
+  },
+  {
+    "b_title": "Study Cutie",
+    "idnum": 16,
+    "b_url": "https://i.imgur.com/jBVjVxn.png",
+    "goal": 5,
+    "b_desc": "5 main quest reviews."
+  },
+  {
+    "b_url": "https://i.imgur.com/kF94Low.png",
+    "b_desc": "15 main quest reviews.",
+    "goal": 15,
+    "b_title": "Study Nerd",
+    "idnum": 17
+  },
+  {
+    "idnum": 18,
+    "goal": 1,
+    "b_desc": "Reported a bug. Send through email: jmaravilla@gbox.adnu.edu.ph",
+    "b_url": "https://i.imgur.com/7b9Zppb.png",
+    "b_title": "Not A Bug Enjoyer"
+  },
+  {
+    "b_title": "Weekly Triumph",
+    "idnum": 19,
+    "b_url": "https://i.imgur.com/ZNqWSEL.png",
+    "goal": 1,
+    "b_desc": "First week of Pandemification."
+  },
+  {
+    "idnum": 20,
+    "goal": 1,
+    "b_desc": "Top 1 in the weekly leaderboards!",
+    "b_url": "https://i.imgur.com/39pKz00.png",
+    "b_title": "Apex"
+  },
+  {
+    "goal": 1,
+    "idnum": 21,
+    "b_url": "https://i.imgur.com/GG4yKK5.png",
+    "b_desc": "Top 2 in the weekly leaderboards!",
+    "b_title": "Uncrowned King"
+  },
+  {
+    "b_desc": "Top 3 in the weekly leaderboards!",
+    "b_title": "Thrill Seeker",
+    "b_url": "https://i.imgur.com/3sW9ijb.png",
+    "goal": 1,
+    "idnum": 22
+  }
+]

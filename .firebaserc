@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "pdemic",
+    "pdemic": "pandemification-adnu"
+  },
+  "targets": {}
+}
